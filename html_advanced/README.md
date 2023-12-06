@@ -5,4 +5,10 @@ HTML, or HyperText Markup Language, serves as the backbone for structuring eleme
 ## TABLE OF CONTENETS
 - [create_html_document](#create_html_document)
 - [markup_language](#markup_language)
+- [DOM](#DOM)
+-[Element/tag](#element/tag)
+-[attribute](#attribute)
+-[purpose_of_each_html_tag](#purpose_of_each_html_tag)
+## create html document
+
 
