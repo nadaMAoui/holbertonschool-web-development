@@ -9,6 +9,14 @@ HTML, or HyperText Markup Language, serves as the backbone for structuring eleme
 - [Element/tag](#element/tag)
 - [attribute](#attribute)
 - [purpose_of_each_html_tag](#purpose_of_each_html_tag)
-## Create tml document
+## Create html document
+## Markup_language
+## DOM
+When a browser read a marked-up document, it builds a parse tree to interpret structure of a document. The parse tree is called DOM(Document Object Model) trees.
+Document object model are the browsers interpretation of the mark up provided and determine how to render page visually both html and xhtml style and any CSS attached.
+### A marked-up document "hello world" example:
+
+
+
 
 
