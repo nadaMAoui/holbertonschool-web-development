@@ -13,7 +13,9 @@
     --font-family: "Source Sans Pro", sans-serif;
     --font-family-secondary: 'Coiny', cursive;
   }
-  
+  *{
+    box-sizing: border-box;
+  }
   body {
     font-family: var(--font-family);
   }
@@ -82,6 +84,21 @@
     color: var(--color-primary);
   }
   
+  .container{
+    max-width: 540px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .mt-5{
+    margin-top: 3rem!important;
+  }
+  div{
+    display: block;
+  }
   @media screen and (max-width: 768px) {
     .display-1 {
       font-size: 4rem;
@@ -114,4 +131,4 @@
     border-bottom: 1px solid var(--color-white);
     color: var(--color-primary);
   }
-  
+ 
